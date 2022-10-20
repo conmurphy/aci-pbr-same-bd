@@ -81,9 +81,9 @@ apic:
                 vm_name: conmurph-asav-1-routed-1
                 interfaces:
                   - name: client
-                    vnic_name: Network Adapter 2
+                    vnic_name: Network adapter 2
                   - name: server
-                    vnic_name: Network Adapter 3
+                    vnic_name: Network adapter 3
             logical_interfaces:
               - name: client
                 concrete_interfaces:
